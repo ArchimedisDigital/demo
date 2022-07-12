@@ -1,3 +1,3 @@
 # demo
 Demo project for training GitHub
-To check merge conflict
+This is a feature by Johnson Jayaraj
