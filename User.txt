@@ -1,0 +1,2 @@
+In order to unzip a zip archive file, you must have the unzip package installed in your system.
+ Most modern Linux distributions come with unzip support but there is no harm in verifying it to avoid bad surprises late
